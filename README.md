@@ -1,4 +1,4 @@
-# 🇪🇸 'One-Time-Username' en Español
+# 🇪🇸 One-Time-Username en Español
 
 Idioma español para el plugin **One-Time-Username**, desarrollado por [Maximilian Mader](https://github.com/max-m) y [Tim Düsterhus](https://github.com/timwolla).
 
